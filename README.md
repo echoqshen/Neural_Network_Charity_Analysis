@@ -21,5 +21,5 @@ During the process I have
 * I have also tried a different activation function (tanh) but none of these steps helped improve the model's performance.
 
 ### Summary
-The deep learning neural network model did not reach the target of 75% accuracy, even after third different approaches.I would say that the model is not outperforming.
+The deep learning neural network model did not reach the target of 75% accuracy, even after third different approaches.I would say that the model is not outperforming.\n
 I would consider other supervised machine learning models such as the Random Forest Classifier, or Support Vector Machine to combine a multitude of decision trees to generate a classified output and evaluate its performance against this deep learning model.
